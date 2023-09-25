@@ -18,4 +18,3 @@ O projeto Links é um repositório de links para usar como cartão de visitas de
 ---
 
 Projeto desenvolvido por @eurcvf ♥
-# projeto_links
